@@ -314,8 +314,19 @@ audio::-webkit-media-controls-time-remaining-display {
 .infor-campus .uni-infor .item .content-item-uni .icon-des {
   color: white;
 }
-
-.infor-campus .uni-infor .item .content-item-uni .icon-des .icon {
+#control-audio {
+  width: 100px;
+  height: 30px;
+  background-color: #0d83c5;
+  cursor: pointer;
+}
+#control-audio
+  .infor-campus
+  .uni-infor
+  .item
+  .content-item-uni
+  .icon-des
+  .icon {
   display: flex;
   width: 60px;
   height: 60px;
